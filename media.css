@@ -1,0 +1,384 @@
+@media (max-width:1210px) {
+    
+    .header{
+        width: 1000px;
+    }
+    .stroca1{
+        width: 1000px;
+    }
+    .stroca2{
+        width: 1000px;
+    }
+    .stroca3{
+        width: 1000px;
+    }
+    .stroca4{
+        width: 1000px;
+
+    }
+    .stroca4 img{
+        width: 100%;
+    }
+    .stroca4 div{
+        width: 49%;
+    }
+    .stroca5{
+        width: 1000px;
+
+    }
+    .stroca6{
+        width: 1000px;
+
+    }
+    .stroca6-block img{
+        width: 100%;
+    }
+}
+
+@media (max-width:1100px) {
+    
+    .header{
+        width: 1000px;
+        display: none;
+    }
+    .header-for-1000px{
+        display: flex;
+        margin-top: 30px;
+    }
+    .stroca1{
+        width: 800px;
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .stroca1-left{
+        width: 100%;
+    }
+    .stroca1-right{
+        width: 100%;
+        margin-top: 50px ;
+    }
+    .stroca1-left-text-block{
+        display: flex;
+        justify-content: space-between;
+    }
+    .stroca2{
+        width: 800px;
+    }
+    .stroca3{
+        width: 800px;
+    }
+    .stroca4{
+        width: 800px;
+
+    }
+    .stroca4 img{
+        width: 100%;
+    }
+    .stroca4 div{
+        width: 49%;
+    }
+    .stroca5{
+        width: 800px;
+
+    }
+    .stroca6{
+        width: 800px;
+
+    }
+    .stroca6-block img{
+        width: 100%;
+    }
+}
+
+
+@media (max-width:800px) {
+    
+    .header{
+        width: 1000px;
+        display: none;
+    }
+    .header-for-1000px{
+        display: flex;
+        margin-top: 30px;
+        width: 600px;
+    }
+    .stroca1{
+        width: 600px;
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .stroca1-right-top-right-block-2{
+        display: none;
+    }
+    .stroca1-left{
+        width: 100%;
+    }
+    .stroca1-right{
+        width: 100%;
+        margin-top: 50px ;
+    }
+    .stroca1-right-top-left{
+        width: 90%;
+    }
+    .stroca1-left-text-block{
+        display: flex;
+        justify-content: space-between;
+    }
+    .stroca2{
+        width: 600px;
+    }
+    .stroca2-row{
+        flex-direction: column;
+        width: 49%;
+    }
+    .sroca2-row-block{
+        width: 99%;
+        margin-top: 26px;
+    }
+    .stroca3{
+        width: 600px;
+    }
+    .stroca3-text-menu{
+        display: none;
+    }
+    .rows{
+       flex-direction: column;
+    }
+    .rows-{
+        background-color: brown;
+    }
+    .stroca3-row{
+        width: 100%;
+    }
+    .stroca4{
+        width: 600px;
+        flex-direction: column;
+    }
+    .stroca4 img{
+        width: 100%;
+        margin-top: 0px;
+      
+    }
+    .stroca4 div{
+        width: 100%;
+    }
+    .stroca5{
+        width: 600px;
+        overflow: scroll;
+    }
+    .stroca6{
+        width: 600px;
+        flex-direction: column;
+    }
+    .stroca6-block{
+        width: 100%;
+    }
+    .stroca6-block img{
+        width: 100%;
+    }
+}
+
+
+@media (max-width:610px) {
+    
+    .header{
+        width: 1000px;
+        display: none;
+    }
+    .header-for-1000px{
+        display: flex;
+        margin-top: 30px;
+        width: 400px;
+    }
+    .stroca1{
+        width: 400px;
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .stroca1-right-top-right-block-2{
+        display: none;
+    }
+    .stroca1-left{
+        width: 100%;
+        overflow: scroll;
+    }
+    .stroca1-right{
+        width: 100%;
+        margin-top: 50px ;
+    }
+    .stroca1-right-top-left{
+        width: 90%;
+    }
+    .stroca1-left-text-block{
+        display: flex;
+        justify-content: space-between;
+    }
+    .stroca2{
+        width: 400px;
+    }
+    .stroca2-row{
+        flex-direction: column;
+        width: 49%;
+    }
+    .sroca2-row-block{
+        width: 99%;
+        margin-top: 26px;
+    }
+    .stroca3{
+        width: 400px;
+    }
+    .stroca3-text-menu{
+        display: none;
+    }
+    .rows{
+       flex-direction: column;
+    }
+    .rows-{
+        background-color: brown;
+    }
+    .stroca3-row{
+        width: 100%;
+    }
+    .stroca4{
+        width: 400px;
+        flex-direction: column;
+    }
+    .stroca4 img{
+        width: 100%;
+        margin-top: 0px;
+      
+    }
+    .stroca4 div{
+        width: 100%;
+    }
+    .stroca5{
+        width: 400px;
+        overflow: scroll;
+    }
+    .stroca6{
+        width: 400px;
+        flex-direction: column;
+    }
+    .stroca6-block{
+        width: 100%;
+    }
+    .stroca6-block img{
+        width: 100%;
+    }
+    .stroca5-block-colump-right{
+        display: none;
+    }
+    .stroca1-right-buttom-block h2{
+        font-size: 30px;
+    }
+    .stroca1-top-center-button{
+        width: 50%;
+    }
+    .stroca1-top-center-button-2{
+        width: 40%;
+    }
+}
+
+
+@media (max-width:410px) {
+    
+    .header{
+        width: 1000px;
+        display: none;
+    }
+    .header-for-1000px{
+        display: flex;
+        margin-top: 30px;
+        width: 300px;
+    }
+    .stroca1{
+        width: 300px;
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .stroca1-right-top-right-block-2{
+        display: none;
+    }
+    .stroca1-left{
+        width: 100%;
+        overflow: scroll;
+    }
+    .stroca1-right{
+        width: 100%;
+        margin-top: 50px ;
+    }
+    .stroca1-right-top-left{
+        width: 90%;
+    }
+    .stroca1-left-text-block{
+        display: flex;
+        justify-content: space-between;
+    }
+    .stroca2{
+        width: 300px;
+    }
+    .stroca2-row{
+        flex-direction: column;
+        width: 49%;
+    }
+    .sroca2-row-block{
+        width: 99%;
+        margin-top: 26px;
+    }
+    .stroca3{
+        width: 300px;
+    }
+    .stroca3-text-menu{
+        display: none;
+    }
+    .rows{
+       flex-direction: column;
+    }
+    .rows-{
+        background-color: brown;
+    }
+    .stroca3-row{
+        width: 100%;
+    }
+    .stroca4{
+        width: 300px;
+        flex-direction: column;
+    }
+    .stroca4 img{
+        width: 100%;
+        margin-top: 0px;
+      
+    }
+    .stroca4 div{
+        width: 100%;
+    }
+    .stroca5{
+        width: 300px;
+        overflow: scroll;
+    }
+    .stroca6{
+        width: 300px;
+        flex-direction: column;
+    }
+    .stroca6-block{
+        width: 100%;
+    }
+    .stroca6-block img{
+        width: 100%;
+    }
+    .stroca5-block-colump-right{
+        display: none;
+    }
+    .stroca1-right-buttom-block h2{
+        font-size: 30px;
+    }
+    .stroca1-top-center-button{
+        width: 50%;
+    }
+    .stroca1-top-center-button-2{
+        width: 40%;
+    }
+    .stroca1-right-top{
+        display: none;
+    }
+}
